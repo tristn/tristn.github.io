@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: bankicon.jpg
+image: images/bankicon.jpg
 title: Bank Interface & Database
 permalink: projects/bank
 # All dates must be YYYY-MM-DD format!
