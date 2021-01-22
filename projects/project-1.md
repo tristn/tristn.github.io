@@ -12,9 +12,7 @@ labels:
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/sao-thumbnail.jpg">
-</div>
+<img class="ui medium right floated rounded image" src="../images/sao-thumbnail.jpg">
 
 Anime Music Videos are steadily increasing in popularity, and at the moment, has an audience that reaches multimillions. An Anime Music Video, or AMV for short, is an edit of an anime series where clips throughout the series are showcased and sliced up to match a song. The posibilites with AMVs are endless, but what makes a top tier AMV is the storytelling process.
 
