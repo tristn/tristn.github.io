@@ -12,7 +12,7 @@ labels:
 summary: Annual Community Service at Greenwell Ethnobotanical Garden.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/Botanical-Garden.jpg">
+<img class="ui medium right floated rounded image" src="../images/Botanical-Garden.jpg">
 
 This garden houses more than 200 indigenous native Hawaiian plant species, on its vast 13 acres. Many of which are rare and endangered.
 There are many duties to be done at the garden, and there is only one official worker there now. A few of the many duties that I have been tasked with include, surveying for invasive fire ants, weed and pest managemenet, continuing native agricultural practices, and assisting modern activies and research on sacred sites.
