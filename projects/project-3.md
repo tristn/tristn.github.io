@@ -1,61 +1,29 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/Garden.png
+title: Ethnobotanical Garden
+permalink: projects/garden
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-06-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Labor
+  - Community Service
+summary: Annual Community Service at Greenwell Ethnobotanical Garden.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/Botanical-Garden.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This garden houses more than 200 indigenous native Hawaiian plant species, on its vast 13 acres. Many of which are rare and endangered.
+There are many duties to be done at the garden, and there is only one official worker there now. A few of the many duties that I have been tasked with include, surveying for invasive fire ants, weed and pest managemenet, continuing native agricultural practices, and assisting modern activies and research on sacred sites.
 
-To give you a flavor of the game, here is an excerpt from one run:
 
-<hr>
+Every year, I return home during the summer and put in Community Service hours at Greenwell Ethnobotanical Garden. I work there
+5 days a week, 4 days in the week from 8 to 3, and one day on the weekend. Every Saturday, the "friends" (volunteer members) get together from 9 to 12:30 and work on the garden.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+I grew up on my grandparent's farm, where I assisted them with maintaining the farm. I am very much used to this type of work, 
+and it is very satisfying to help out the man that works here alone. I've also learned how to drive manual transmition from
+this man, where he taught me to drive the farm truck around the garden. I have gained invaluable experience, and more than anything a humbling perspective on life.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Link to the garden's website: (https://www.amygreenwell.garden/)
 
