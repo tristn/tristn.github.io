@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Botanical-Garden.png
+image: images/bgarden.png
 title: Ethnobotanical Garden
 permalink: projects/garden
 # All dates must be YYYY-MM-DD format!
