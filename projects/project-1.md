@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/AE-icon.png
 title: Animated Music Video Edit
-permalink: projects/micromouse
+permalink: projects/edit
 # All dates must be YYYY-MM-DD format!
 date: 2020-22-01
 labels:
