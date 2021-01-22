@@ -1,44 +1,28 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
+image: images/AE-icon.png
+title: Animated Music Video Edit
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2020-22-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Adobe After Effects
+  - Adobe Premiere Pro
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/sao-thumbnail.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Anime Music Videos are steadily increasing in popularity, and at the moment, has an audience that reaches multimillions. An Anime Music Video, or AMV for short, is an edit of an anime series where clips throughout the series are showcased and sliced up to match a song. The posibilites with AMVs are endless, but what makes a top tier AMV is the storytelling process.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I seamlessly worked between Adobe studio's software and uploaded it to YouTube. This project was crafted in Adobe After Effects, Adobe Premiere Pro, Adobe Audition, and Adobe Photoshop. The first two software deals with the actual video editing process, Audition was used to finetune the audio icluding audible effects. Lastly, Photoshop was used to create the thumbnail.
 
-Here is some code that illustrates how we read values from the line sensors:
+The art of editing is a continuous struggle, however with every edit I make, I finetune my craft and pick up new editing techniques along the way. One of the greatest improvements I have picked up through this experience, was the art of story telling. By choosing certain clips, I was able to guide the viewer through a storyline, and provoke emotions in this "short story".
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can view the full video at [YouTube](https://youtu.be/sUrCzR5ECbM).
 
 
 
