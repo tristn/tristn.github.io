@@ -13,7 +13,7 @@ labels:
 summary: A program for a bank database that stores user data, as a project for ICS 212.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/Database.jpg">
 
 This is a project issued in the ICS212 course offered at UH Manoa. Firstly, a bank interface was created for a banker to use when working with people. The interface would prompt the user to enter their data, then multiple options would be shown for the banker to use. Some of these options included an add record, find record, print record, delete record, and quit function.
 
