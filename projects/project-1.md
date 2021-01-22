@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/AE-icon.png
+image: images/aelogo.png
 title: Animated Music Video Edit
 permalink: projects/edit
 # All dates must be YYYY-MM-DD format!
