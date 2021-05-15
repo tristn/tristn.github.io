@@ -11,15 +11,15 @@ labels:
   - Team Software Development
 summary: Worked in a group of four to create a website used by UH PANDA club. Assists in teaching students algorithms using interview-like problems.
 ---
-<img class="ui medium left floated image" src="../images/userproblempage.png">
+<img class="ui big left floated image" src="../images/userproblempage.png">
 
 My final project for ICS 314 at UH Manoa, was creating a website designed for the use of the PANDA club to assist teaching algorithms to UH Manoa students using interview-like problems. This comprehensive website stores problems and solutions submitted by students and allows the admins to administer new problems and review student’s solutions.
 
-<img class="ui medium left floated image" src="../images/landing.png">
+<img class="ui large left floated image" src="../images/landing.png">
 
 Our website features a landing time that welcomes you with a lovely little panda. You are required to sign up if you have not already registered or sign in with your existing account. The profile page is where you can configure your own profile and add a fun bio as well. You can also see on this page, your previously submitted solutions. Lastly there is a meme of the day, so you open the site with a smile. The other tab is the problems page where you can choose your cause of death. We have problems ranging from frightening to ominous. However, with enough practice hopefully you can fly through these problems with ease one day.
 
-<img class="ui medium left floated image" src="../images/userprofilepage.png">
+<img class="ui large left floated image" src="../images/userprofilepage.png">
 
 Our GitHub page has a list of all our features, and even community feedback. We value hearing from the community so we can create an app that is effective and loved by all. This app was also specifically designed for use by the PANDA club, so we have been in close contact with their president to ensure a successful product.
 
