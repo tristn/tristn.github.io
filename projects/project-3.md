@@ -25,5 +25,5 @@ I grew up on my grandparent's farm, where I assisted them with maintaining the f
 and it is very satisfying to help out the man that works here alone. I've also learned how to drive manual transmition from
 this man, where he taught me to drive the farm truck around the garden. I have gained invaluable experience, and more than anything a humbling perspective on life.
 
-[Link to the garden's website](https://www.amygreenwell.garden/)
+Link to the garden's website can be found [here](https://www.amygreenwell.garden/)
 
