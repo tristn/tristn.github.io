@@ -79,30 +79,6 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
-  ],
   "volunteer": [
     {
       "organization": "Greenwell Ethnobotanical Garden",
@@ -112,29 +88,35 @@
       "endDate": "Present",
       "summary": "Labor work and indigenous practices",
       "highlights": [
-        "Maintain proper care for endangered and rare native Hawaiian plants",
-        "Various work across 13 acres of land"
+        "Maintain proper care for endangered and rare native Hawaiian plants.",
+        "Various work across 13 acres of land."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Special Olympics Hawaii",
+      "website": "http://sohawaii.org/",
+      "position": "Activity Manager",
+      "startDate": "2014-06-01",
+      "endDate": "2020-01-01",
+      "summary": "Organize events and assist with refereeing sports",
       "highlights": [
-        "",
-        ""
+        "Worked with a team of organizers to create a fun experience for those with special needs.",
+        "Refereed many sports games."
       ]
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "International Karate League tournament champion",
+      "date": "2017",
+      "awarder": "Walter Nishioka (Shihan)",
+      "summary": "Took first place in a tournament organized by the International Karate League"
+    },
+    {
+      "title": "Athlete of the Year",
+      "date": "2017",
+      "awarder": "Adam Tabieros (Head Coach)",
+      "summary": "Got awarded Athlete of the Year for my performance in Baseball."
     }
 
   ],
