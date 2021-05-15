@@ -7,10 +7,11 @@
 
 
 html, body {
-  height: 100%
+  min-height: 100%
 }
 #container {
   background: linear-gradient(to bottom right, lightskyblue, whitesmoke);
+  min-height: 100%
 }
 
 // Customize the background color
