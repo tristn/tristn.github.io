@@ -9,7 +9,7 @@ date: 2020-22-01
 labels:
   - Adobe After Effects
   - Adobe Premiere Pro
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: I use Adobe's technology stack to create a beautiful animated story.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/sao-thumbnail.jpg">
