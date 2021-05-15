@@ -53,6 +53,7 @@
         "C++",
         "Java",
         "Javascript",
+        "Python"
       ]
     },
     {
@@ -60,10 +61,10 @@
       "level": "",
       "keywords": [
         "Windows 10",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "MongoDB",
+        "Atom",
+        "IntelliJ"
       ]
     }
   ],
