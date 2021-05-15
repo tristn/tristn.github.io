@@ -27,5 +27,5 @@ For this project we used an issue driven project management, where we listed out
 
 Source code for this project can be found [here](https://github.com/uh-code-submissions/uh-code-submissions).
 
-Link to the project's development website can be found [here](https://uh-code-submissions.github.io/)
+[Link to the project's development website](https://uh-code-submissions.github.io/)
 
