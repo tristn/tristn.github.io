@@ -6,8 +6,12 @@
 // Here are some common customizations for colors
 
 // Customize the background color
+html, body {
+  min-height: 100%
+}
 body {
   background: linear-gradient(to bottom right, lightskyblue, whitesmoke);
+
   // background-color: #f2f2f2;;
 }
 
